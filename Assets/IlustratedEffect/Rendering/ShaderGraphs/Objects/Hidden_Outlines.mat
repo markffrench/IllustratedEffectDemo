@@ -56,14 +56,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _DebugView: 0
-    - _DepthThreshold: 1.1
-    - _NormalThreshold: 0.279
-    - _OutlineScale: 1
+    - _DepthThreshold: 3.6
+    - _NormalThreshold: 0.127
+    - _OutlineScale: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RobertsCrossMultiplier: 98
-    - _SteepAngleMultiplier: 65
-    - _SteepAngleThreshold: 1.55
+    - _RobertsCrossMultiplier: 56
+    - _SteepAngleMultiplier: 74
+    - _SteepAngleThreshold: 1.321
     m_Colors:
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineColor: {r: 0.056514766, g: 0.09433961, b: 0.09433961, a: 1}
   m_BuildTextureStacks: []

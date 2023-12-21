@@ -23,13 +23,13 @@ MonoBehaviour:
   outlineSettings:
     screenSpaceOutlineMaterial: {fileID: 2100000, guid: ddefbe58e43b3c345a03ff6a9fd85819,
       type: 2}
-    outlineColor: {r: 0, g: 0, b: 0, a: 1}
-    outlineScale: 1
-    depthThreshold: 1.1
-    robertsCrossMultiplier: 98
-    normalThreshold: 0.279
-    steepAngleThreshold: 1.55
-    steepAngleMultiplier: 65
+    outlineColor: {r: 0.056514766, g: 0.09433961, b: 0.09433961, a: 1}
+    outlineScale: 0.5
+    depthThreshold: 3.6
+    robertsCrossMultiplier: 56
+    normalThreshold: 0.127
+    steepAngleThreshold: 1.321
+    steepAngleMultiplier: 74
     debugView: 0
   viewSpaceNormalsTextureSettings:
     material: {fileID: 2100000, guid: d4f2186b6f8d2e647bca663a1704820b, type: 2}
@@ -68,9 +68,9 @@ MonoBehaviour:
     AfterOpaque: 0
     Source: 1
     NormalSamples: 1
-    Intensity: 0.5
-    DirectLightingStrength: 0.25
-    Radius: 0.25
+    Intensity: 1
+    DirectLightingStrength: 0.471
+    Radius: 117.1
     Samples: 0
     BlurQuality: 0
     Falloff: 100

@@ -271,6 +271,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 12219_boat_v2_L2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a693530c467c6a4fa76e8777ba95711,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1320827826143431128, guid: 6a693530c467c6a4fa76e8777ba95711,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -419,6 +424,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sail ship
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8840284761c4ec845b276e04ddcb364d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1588744379435927897, guid: 8840284761c4ec845b276e04ddcb364d,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -526,6 +536,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Viking boat
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b636080fb3be89a4b9559eee37a50f32,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4649727582573722662, guid: b636080fb3be89a4b9559eee37a50f32,
         type: 3}
@@ -799,7 +814,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.7929969, b: 0.5330188, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1.3
   m_Range: 10
   m_SpotAngle: 30
@@ -948,6 +963,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BoatWSail
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eeb2d97347c653e48ad79567ce893f3e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4731406356249687433, guid: eeb2d97347c653e48ad79567ce893f3e,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -987,8 +1007,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1995861406}
   m_LocalRotation: {x: 0, y: -0.07593585, z: 0, w: 0.9971127}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0.11, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7703990216789121495}
